@@ -1,3 +1,3 @@
 SpringBoot+SpringAI小demo，
-支持调用openai大模型和质谱清言大模型，
+支持调用openai大模型和质谱清言大模型的chatclient对话接口，
 需要在代码中自配api-key
